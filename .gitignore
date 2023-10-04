@@ -1,0 +1,10 @@
+venv/
+.vscode/
+/media
+/static
+/data
+*.pyc
+local_settings.py
+.idea
+.venv
+/filer*
